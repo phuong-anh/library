@@ -1,0 +1,11 @@
+#eclipse generated configs
+.classpath
+.project
+.settings
+
+#backup files
+*~
+
+bin
+doc
+lib
